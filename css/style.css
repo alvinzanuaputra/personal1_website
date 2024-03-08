@@ -1764,3 +1764,9 @@ body.light hr.separator {
 }
 
 
+
+.refresh:hover {
+  /* Gaya yang ingin Anda terapkan saat elemen dihover */
+  color: #0481bb;
+  cursor: pointer; /* Menampilkan kursor tangan saat dihover */
+}
