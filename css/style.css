@@ -1757,3 +1757,10 @@ body.light hr.separator {
   max-width: 60%; /* Set maximum width to 100% of the container */
   height: 60%; 
 }
+
+.tekan{
+  color: #0481bb;
+  font: bold;
+}
+
+
